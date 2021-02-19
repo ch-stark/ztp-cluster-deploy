@@ -6,7 +6,7 @@ using Assisted Installer and Small ISO.
     - Podman.
     - Ansible.
         - Ansible modules: containers.podman and community.general
-          You can install all the requirements with: `ansible-galaxy collection install -r requirements.yaml`
+          You can install all the requirements with: `ansible-galaxy collection install -r requirements.yml`
 
 - Steps:
 
